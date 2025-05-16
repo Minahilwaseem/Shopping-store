@@ -1,0 +1,2 @@
+0003:Sneakers:$7800:100:0:Men's shoes:2
+0009:Joggers:$11500:100:0:Kids shoes:5

@@ -1,0 +1,30 @@
+0001:Lofers:$5000:100:0:Men's shoes
+0002:Joggers:$6500:100:0:Men's shoes
+0003:Sneakers:$7800:100:0:Men's shoes
+0004:Coatshoes:$4500:100:0:Women's shoes
+0005:Heels:$8900:100:0:Women's shoes
+0006:Khusas:$2000:100:0:Women's shoes
+0007:Sandals:$9500:100:0:Kids shoes
+0008:Kheri:$1500:100:0:Kids shoes
+0009:Joggers:$11500:100:0:Kids shoes
+0010:Bracelet:$11500:100:0:Accessories
+0011:Ring:$5500:100:0:Accessories
+0012:Necklace:$7500:100:0:Accessories
+0013:Mascara:$1500:100:0:Makeup
+0014:Blush on:$4500:100:0:Makeup
+0015:Eye liner:$7100:100:0:Makeup
+0016:PoloShirts:$10000:100:0:Men's clothes
+0017:BlackPants:$7800:100:0:Men's clothes
+0018:ShalwarKameez:$12000:100:0:Men's clothes
+0019:Trousers:$7800:100:0:Men's clothes
+0020:Suits:$20000:100:0:Men's clothes
+0021:FloralFrocks:$13000:100:0:Women's clothes
+0022:Scarf:$1300:100:0:Women's clothes
+0023:Trousers:$12000:100:0:Women's clothes
+0024:LongCoats:$30000:100:0:Women's clothes
+0025:Hooodies:$5000:100:0:Women's clothes
+0026:Shorts:$1500:100:0:kids clothes
+0027:Shirts:$2000:100:0:kids clothes
+0028:Rompers:$7500:100:0:kids clothes
+0029:Shalwar kameez:$6800:100:0:kids clothes
+0030:Pants:$6400:100:0:kids clothes
